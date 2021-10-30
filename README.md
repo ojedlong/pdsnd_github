@@ -26,7 +26,9 @@ End Station (e.g., Sedgwick St & North Ave)
 User Type (Subscriber or Customer)
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 Thank you Udacity for providing the course and the necessary material for me to develop this project.
