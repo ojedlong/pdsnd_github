@@ -4,7 +4,7 @@
 30th October 2021.
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
 In this project, I'll make use of R to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I'll write code to import the data and answer interesting questions about it by computing descriptive statistics and making visualizations!.
